@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm 17 yo student from Poland that likes to make things in JavaScript, GoLang, Java and Dart. Also I am currently learning [Kotlin](https://kotlinlang.org) and [Jetpack Compose](https://developer.android.com/jetpack/compose).
+I'm 18 yo student from Poland that likes to make things in JavaScript, GoLang, Java/Kotlin and Dart. Also I am currently learning [Jetpack Compose](https://developer.android.com/jetpack/compose).
 
 I enjoy making discord related things and I am mainly working on [Aliucord](https://github.com/Aliucord/Aliucord) - open source Discord mod for Android with plugins system and [Powercord](https://github.com/powercord-org/powercord) plugins.
 
