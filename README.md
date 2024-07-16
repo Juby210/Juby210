@@ -1,7 +1,5 @@
 ### Hi there! 👋
-I'm 18 yo student from Poland that likes to make things in JavaScript, GoLang, Java/Kotlin and Dart. Also I am currently learning [Jetpack Compose](https://developer.android.com/jetpack/compose).
-
-I enjoy making discord related things and I am mainly working on [Aliucord](https://github.com/Aliucord/Aliucord) - open source Discord mod for Android with plugins system and [Powercord](https://github.com/powercord-org/powercord) plugins.
+I'm 20 yo ICT student from Poland that likes to make things in GoLang, JavaScript, Java/Kotlin and Dart. Doing mostly Android app mods using Xposed APIs.
 
 ![Profile views](https://komarev.com/ghpvc/?username=Juby210)
 <p float="left">
